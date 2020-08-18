@@ -10,11 +10,11 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammed-nuhman/)
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSchokolade&layout=compact&theme=radical )  
+![DarkSchokolade's github stats](https://github-readme-stats.vercel.app/api?username=nuhman&show_icons=true&include_all_commits=true&theme=radical&hide=stars,contribs&count_private=true)  
 
-![DarkSchokolade's github stats](https://github-readme-stats.vercel.app/api?username=nuhman&show_icons=true&include_all_commits=true&theme=radical&hide=stars,contribs&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSchokolade&layout=compact&theme=radical )
 
 <div align="center">
-<p><strong>VISITS<Strong></p>
+<p><strong>Visits<Strong></p>
 <img src="https://profile-counter.glitch.me/nuhman/count.svg" alt="hit counter" align="center">
 </div>
