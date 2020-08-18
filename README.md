@@ -11,7 +11,7 @@
 
 
 
-![DarkSchokolade's github stats](https://github-readme-stats.vercel.app/api?username=nuhman&show_icons=true&include_all_commits=true&theme=radical&hide=stars&count_private=true)
+![DarkSchokolade's github stats](https://github-readme-stats.vercel.app/api?username=nuhman&show_icons=true&include_all_commits=true&theme=radical&hide=stars,contribs&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSchokolade&layout=compact&theme=radical )
 
 <div align="center">
