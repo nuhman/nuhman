@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning React & GraphQL
 - 👯 I’m looking to collaborate on anything that's cool  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammed-nuhman/)  
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/muhammed-nuhman/)  
 <br />
 <br />
 
