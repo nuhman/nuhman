@@ -14,7 +14,3 @@
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhman&layout=compact&theme=radical ) 
 
 
-<div align="center">
-<p><strong>VISITS<Strong></p>
-<img src="https://profile-counter.glitch.me/nuhman/count.svg" alt="hit counter" align="center">
-</div>
