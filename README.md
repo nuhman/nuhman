@@ -3,14 +3,10 @@
 <!--
 **nuhman/nuhman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+Caught the coding bug over 9 years ago and have enjoyed every day of it since.     
+I've perfected the art of Googling my way through challenges – it's like a treasure hunt where the X marks the latest tech trend! 😄  
   
-- 🌱 I’m currently learning React & GraphQL
-- 👯 I’m looking to collaborate on anything that's cool  
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/muhammed-nuhman/)  
-<br />
-<br />
-
-![nuhman's github stats](https://github-readme-stats.vercel.app/api?username=nuhman&show_icons=true&include_all_commits=true&theme=radical&hide=contribs&count_private=true)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhman&layout=compact&theme=radical ) 
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/muhammed-nuhman/)  
+<br />  
 
 
